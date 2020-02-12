@@ -11,7 +11,6 @@ I'll create a script to generate everything for you and you just have to run it!
 - Scenes
 - Scripts
 - Sounds
-- Plugins
 - Visuals
   - Animations
   - Fonts
