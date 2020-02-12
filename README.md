@@ -1,4 +1,4 @@
-# how-to-unity
+# How to Unity
 How to Unity, structure file
 This file will help you setup your Unity folder system.
 I'll create a script to generate everything for you and you just have to run it! 
@@ -13,11 +13,11 @@ I'll create a script to generate everything for you and you just have to run it!
 - Sounds
 - Plugins
 - Visuals
--- Animations
--- Fonts
--- Images
--- Materials
--- Meshs
--- Shaders
+  - Animations
+  - Fonts
+  - Images
+  - Materials
+  - Meshs
+  - Shaders
 
 
