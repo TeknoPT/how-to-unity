@@ -19,4 +19,8 @@ I'll create a script to generate everything for you and you just have to run it!
   - Meshs
   - Shaders
 
-
+# How to use
+Download the script file *Windows* the **.bat** and *Linux* the **.sh**
+1. Put on the Assets folder.
+2. Run the script
+3. There you go :)
